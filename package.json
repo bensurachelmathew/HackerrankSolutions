@@ -1,0 +1,22 @@
+{
+  "name": "hackerranksolutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bensurachelmathew/HackerrankSolutions.git"
+  },
+  "author": "Bensu Rachel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bensurachelmathew/HackerrankSolutions/issues"
+  },
+  "homepage": "https://github.com/bensurachelmathew/HackerrankSolutions#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
